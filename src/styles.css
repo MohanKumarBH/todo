@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.add-button {
+  margin-left: 20px;
+  padding: 6px;
+  color: white;
+  background-color: blue;
+  border-radius: 3px;
+}
+
+.input-el {
+  padding: 5px 0px 5px 2px;
+}
